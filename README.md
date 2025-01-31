@@ -7,7 +7,7 @@
 
 # Guardiã das Finanças - Chatbot de Controle Financeiro
 
-> ℹ️ **NOTE:** Este é o repositório desenvolvido para o projeto *Guardiã das Finanças*, um chatbot de assistência financeira desenvolvido como parte do bootcamp *Coding The Future Caixa - IA Generativa com Microsoft Copilot* da [DIO](https://www.dio.me/bootcamp/coding-the-future-ia-generativa-microsoft-copilot).
+> ℹ️ **NOTE:** Este é o repositório desenvolvido para o projeto *Guardiã das Finanças*, um chatbot de assistência financeira desenvolvido com assistência do ChatGPT como parte do bootcamp *Coding The Future Caixa - IA Generativa com Microsoft Copilot* da [DIO](https://www.dio.me/bootcamp/coding-the-future-ia-generativa-microsoft-copilot).
 
 O *Guardiã das Finanças* é um chatbot que auxilia usuárias no registro e organização de despesas financeiras, utilizando processamento de linguagem natural (*NLP*) para categorização automática de transações.
 

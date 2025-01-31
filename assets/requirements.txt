@@ -1,0 +1,6 @@
+
+flask
+spacy
+pt_core_news_lg
+twilio
+pandas

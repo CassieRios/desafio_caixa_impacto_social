@@ -13,6 +13,8 @@ O *Guardiã das Finanças* é um chatbot que auxilia usuárias no registro e org
 
 ## 💻 Tecnologias utilizadas no projeto
 
+- [ChatGPT](https://openai.com/index/chatgpt/)
+- [MidJourney](https://www.midjourney.com/home)
 - [Python](https://www.python.org/)
 - [Flask](https://flask.palletsprojects.com/)
 - [spaCy](https://spacy.io/)

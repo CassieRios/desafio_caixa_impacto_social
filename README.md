@@ -79,10 +79,6 @@ O *Guardiã das Finanças* é um chatbot que auxilia usuárias no registro e org
 
 A representação visual da *Guardiã das Finanças* foi inspirada no conceito de uma heroína digital, refletindo a missão do projeto de empoderar usuárias no controle financeiro.
 
-<p align="center">
-<img src="./assets/hero_pixel_art.png" width="300"/>
-</p>
-
 ## 📜 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.

@@ -30,12 +30,13 @@ O *Guardiã das Finanças* é um chatbot que auxilia usuárias no registro e org
 
 ```
 /
-├── app.py               # Arquivo principal do chatbot
-├── dados/
-│   ├── financas.csv     # Arquivo onde são armazenadas as despesas registradas
-├── README.md            # Documentação do projeto
-└── assets/
+├── assets/
     ├── cover.png        # Imagem de capa
+├── outputs/
+│   ├── financas.csv     # Arquivo onde são armazenadas as despesas registradas
+│   ├── app.py           # Arquivo principal do chatbot
+└── README.md            # Documentação do projeto
+
 ```
 
 ## 🛠️ Como executar o projeto
